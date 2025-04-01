@@ -1,9 +1,9 @@
 # Project-Genetic-Marker-HeartAttacks
 
-## Disclaimer:
+**Disclaimer:**
 This project uses **simulated data** for educational purposes only. No real human genetic data is included. 
 
-**Executive Summary: Identifying Genetic Marker for Sudden Heart Attacks**
+## Executive Summary: Identifying Genetic Marker for Sudden Heart Attacks
 By Krishna Priya Nemalikanti
 
 **Obejctive:**
