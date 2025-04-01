@@ -22,6 +22,6 @@ A beginner friendly data science project analyzing simulated SNP data to find as
 
 ## Usage
 **How to Run**
-1. Clone this repo : ` git clone [https://github.com/Krishna569102/Project](https://github.com/Krishna569102/Project-Genetic-Marker-HeartAttacks)
+1. Clone this repo : ` git clone [https://github.com/Krishna569102/Project](https://github.com/Krishna569102/Project-Genetic-Marker-HeartAttacks)`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the jupyter notebook: ` jupyter notebook notebooks/DataScience_Project_KrishnaPriyaNemalikanti.ipynb`
